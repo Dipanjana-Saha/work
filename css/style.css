@@ -1,0 +1,22 @@
+
+        body {
+            background-color: #b4f2e1;
+            }
+            h1 {
+                color: blueviolet;
+            }
+            h3 {
+                color: blueviolet;
+            }
+            hr {
+                background-color:white;
+                border-style:none;
+                border-top-style: dotted;
+                border-color: gray;
+                border-width: 5px;
+                height: 0px;
+                width: 5%;
+            }
+            img {
+                height: 170px;
+            }
